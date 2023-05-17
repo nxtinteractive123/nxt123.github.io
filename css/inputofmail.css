@@ -1,0 +1,17 @@
+.form123{
+	position: relative; 
+}
+.textbox123{
+	border: 2px solid;
+	border-radius: 5px;
+	outline: none; 
+	background: none;
+	padding: 10px;
+	color: white;
+}
+.form-label123{
+	position: absolute;
+	top: 0.6rem;
+	left: 0.4rem
+	cursor: text;
+}
